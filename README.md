@@ -11,12 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhiiiijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiiiijain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarsh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adarsh Sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/adarshsharma2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhiiiijain" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhiiiijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhiiiijain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adarsh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhiiiijain" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/abhiiiijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abhiiiijain" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhiiiijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhiiiijain" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sharma2015adarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Adarsh Sharma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adarsh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Adarsh Sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh857&show_icons=true&locale=en&layout=compact" alt="Adarsh857" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh857&show_icons=true&locale=en" alt="Adarsh857" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh857&" alt="Adarsh857" /></p>
